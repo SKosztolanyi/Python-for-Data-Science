@@ -1,2 +1,2 @@
 # Python-for-Data-Science
-Data science assignments from online courses
+Data science exercises from online courses
